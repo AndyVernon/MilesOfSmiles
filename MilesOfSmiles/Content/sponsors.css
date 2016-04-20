@@ -1,0 +1,27 @@
+﻿.sponsors-full, .sponsors-third, .sponsors-half {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+    padding: 10px 0;
+}
+
+.sponsors-full a {
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 600px;
+}
+
+.sponsors-third .sponsors-third-item {
+    width: 200px;
+    float: left;
+    margin-left: 25px; 
+    margin-right: 25px;
+}
+
+.sponsors-half .sponsors-half-item {
+    width: 300px;
+    float: left;
+    margin-left: 25px;
+    margin-right: 25px;
+}

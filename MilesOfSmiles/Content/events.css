@@ -1,0 +1,20 @@
+﻿.forthcoming-events {
+    width: 90%;
+    margin-left: auto; margin-right: auto;
+}
+
+.title {
+    width: 25%;
+}
+
+.date {
+    width: 15%;
+}
+
+.details {
+    width: 50%;
+}
+
+.facebook_link {
+    width: 10%;
+}

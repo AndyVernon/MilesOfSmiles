@@ -1,0 +1,27 @@
+﻿.homepage_image {
+    height: 400px;
+    width: 200px;
+    float: right;
+}
+
+.testimonial {
+    height: 400px;
+    width: 600px;   
+    float: left;
+}
+
+.testimonial h3 {
+    margin: 0;
+}
+
+.homepage_maincontent {
+    height: 400px;
+    width: 900px;
+    margin-left: auto; margin-right: auto;
+}
+
+.homepage_third {
+    width: 300px;
+    float: left;
+    padding-right: 20px;
+}

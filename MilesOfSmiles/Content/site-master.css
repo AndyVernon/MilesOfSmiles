@@ -1,0 +1,112 @@
+﻿.main-content {
+    background-image: none;
+    padding: 0px;
+}
+
+ul#menu.header-menu {
+    text-align: left;
+    width: 90%;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.content-wrapper {
+    max-width: none;
+    width: auto;
+    /*background-color: #fff;*/
+    margin: 30px 0px;
+}
+
+.header .content-wrapper {
+    margin-top: 0px;
+    background-color: #fcaab8;
+}
+
+body {
+    border-top: 0px;
+    margin: 0px 0px;
+}
+
+#body {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#footer {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+html {
+    background-color: #fbc2cc;
+    margin: 0;
+    padding: 0;
+}
+
+.page-header .header-logo, .page-header .menu {
+    margin-left:10px; padding-top:10px;
+}
+
+ul#menu {
+    display: table;
+    width: 100%;
+    height: 25px;
+}
+
+ul#menu li {
+    display: table-cell;
+    height: 25px;
+    width: 14%;
+    line-height: 25px;
+    text-align: center;
+    white-space: nowrap;
+}
+
+ul#menu.header-menu li a {
+    color: #000000;
+}
+
+a.logo {
+    background: url(../Images/logo_100x100.png) no-repeat center left;
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+}
+
+a.donate-button {
+    background: url(../Images/donate_230x62.jpg) no-repeat center left;
+    width: 230px;
+    height: 62px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+
+a.ellis-whittam-logo {
+    background: url(../Images/ellis_whittam_small.jpg) no-repeat center left;
+    width: 230px;
+    height: 62px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+   
+
+.menu {
+    clear: both;
+}
+
+.hosted-by {
+    float: left;
+    width: 500px;
+}
+
+.charitynumber {
+    float: right;
+    width: 500px;
+    text-align: right;
+    margin-right:10px;
+}
+
+
