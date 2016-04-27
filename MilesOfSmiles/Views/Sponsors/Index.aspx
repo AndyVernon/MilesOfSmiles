@@ -68,8 +68,8 @@
         </div>
         <div class="sponsors-full">
             <div class="sponsors-third-item">
-                <a href="http://www.thomasofchester.com/" target="_blank">
-                    <img src="http://79.170.44.217/milesofsmileschester.com/Images/sponsors/Thomas.jpg" alt="http://www.thomasofchester.com/" />
+                <a href="http://www.cffertilisers.co.uk/" target="_blank">
+                    <img src="http://79.170.44.217/milesofsmileschester.com/Images/sponsors/cf-fertilisers_logo.png" alt="http://www.cffertilisers.co.uk/" />
                 </a>
             </div>
         </div>

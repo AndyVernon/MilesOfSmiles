@@ -293,6 +293,55 @@ namespace MilesOfSmiles.Controllers
                     EventDetails = "Annual Charity Quiz to be held at Cheshire County Sports Club 8pm. Teams, minimum of 4, maximum of 6. £5 pp entry fee. Please contact Gary or Sue to register.",
                     EventDate = new DateTime (2016, 7, 17)
                 });
+            models.Add(
+                new EventModel
+                {
+                    EventTitle = "Chester Lakes",
+                    EventDetails = "Details in hand at the moment. Will be released asap.",
+                    EventDate = new DateTime(2016, 08, 20)
+                });
+            models.Add(
+                new EventModel
+                {
+                    EventTitle = "Ladies evening",
+                    EventDetails = "Further details TBC",
+                    EventDate = new DateTime(2016, 09, 22)
+                });
+            models.Add(
+                new EventModel
+                {
+                    EventTitle = "Sportsmans Evening",
+                    EventDetails = "We are delighted to welcome our guest speaker for this year, ex Newcastle United, Coventry City striker and Talk Sport Presenter Micky Quinn. Also played for Wigan, Stockport, Oldham and Portsmouth. Also very pleased to welcome back by popular demand our Comedian Gary Skyner, who is quite simply hilarious. £30 per head, tables of 10 for the price of 9.Full Chinese banquet, raffle and stand up bingo. 7 pm. for 7.15 pm PROMPT start.Dress code is lounge suits / or smart(no jeans or t shirts).",
+                    EventDate = new DateTime(2016, 10, 20)
+                });
+            models.Add(
+                new EventModel
+                {
+                    EventTitle = "Halloween Party",
+                    EventDetails = "Fancy dress competitions for both adults & kids. Entertainment. Food. Glitterbugz. More TBA. McCleans Pentre. 6pm – 10.30pm.",
+                    EventDate = new DateTime(2016, 10, 22)
+                });
+            models.Add(
+                new EventModel
+                {
+                    EventTitle = "Kids Xmas Party",
+                    EventDetails = "Further details will be released.",
+                    EventDate = new DateTime(2016, 12, 04)
+                });
+            models.Add(
+                new EventModel
+                {
+                    EventTitle = "Kids Party",
+                    EventDetails = "In aid of Miles of Smiles 25th birthday. 2pm to 5pm. Disco & entertainment. TBA.",
+                    EventDate = new DateTime(2017, 04, 27)
+                });
+            models.Add(
+                new EventModel
+                {
+                    EventTitle = "Gala Charity Night",
+                    EventDetails = "Special night for Miles of Smiles 25th birthday. 7pm for 7.30 start – 1am. Crowne Plaza Chester. Further details TBA.",
+                    EventDate = new DateTime(2017, 05, 20)
+                });
             viewModel.AllEvents = models;
             return View(viewModel);
         }

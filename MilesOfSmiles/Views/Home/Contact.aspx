@@ -34,12 +34,12 @@
                 <td class="phone"></td>
             </tr>
             <tr>
-                <td class="name">Monika Nowobilska</td>
-                <td class="position">Voluntary Helper</td>
-                <td class="phone"></td>
+                <td class="name">Phil Thomas</td>
+                <td class="position">Commitee member</td>
+                <td class="phone">07828 978976</td>
             </tr>
             <tr>
-                <td class="name">Sam Newall</td>
+                <td class="name">Monika Nowobilska</td>
                 <td class="position">Voluntary Helper</td>
                 <td class="phone"></td>
             </tr>

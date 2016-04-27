@@ -566,6 +566,109 @@ namespace MilesOfSmiles.Controllers
                     Location = "Airbus Broughton",
                     Show = true
                 });
+            models.Add(
+                new BlogModel
+                {
+                    Date = new DateTime(2016, 01, 31),
+                    Details = "On Sunday 31st January a charity quiz night was held due to special request!! We also had some new faces there and hope they will come along to many more events as they had a great night along with everyone else. Over a £1000 was raised within a matter of a couple of hours.",
+                    Show = true,
+                });
+            models.Add(
+                new BlogModel
+                {
+                    Date = new DateTime(2016, 02, 06),
+                    Details = "A very popular event was organised by the students under the name of Bibididoo events. ‘A day in the magical kingdom’ was so popular that the event venue had to be changed 3 times due to demand.Lots of various activities were in place to entertain the children along with a visit from Mickey & Minnie and an amount of over £1200 was raised. Well done girls!!",
+                    Location = "Chester",
+                    Show = true,
+                    Photos = new List<PhotoItem>
+                    {
+                        new PhotoItem
+                        {
+                            TitleText = "Bibididoo",
+                            AltText = "Bibididoo",
+                            ImageSrc = "Bibididoo.jpg"
+                        }
+                    }
+                });
+            models.Add(
+                new BlogModel
+                {
+                    Date = new DateTime(2016, 03, 01),
+                    Details = "In March I received an out of the blue email telling me that we were being given a cheque for £4380!!! CF Fertiliers had been raising money for 14 moths from their vehicles earning a £1 a day which they then donated to 5 charities, all receiving the same amount. To say I was surprised was an understatement!! The charity was chosen as a relative had been on the last trip in 2012. Lillie who is on our posters and had suffered with some very severe medical issues including 40 lots of chemotherapy was the inspiration. Fantastic amount of money!!",
+                    Show = true,
+                    Photos = new List<PhotoItem>
+                    {
+                        new PhotoItem
+                        {
+                            TitleText = "CF Fertiliers",
+                            AltText = "CF Fertiliers",
+                            ImageSrc = "cf1.jpg"
+                        },
+                        new PhotoItem
+                        {
+                            TitleText = "CF Fertiliers",
+                            AltText = "CF Fertiliers",
+                            ImageSrc = "cf2.jpg"
+                        }
+                    }
+                });
+            models.Add(
+                new BlogModel
+                {
+                    Date = new DateTime(2016, 03, 23),
+                    Details = "I collected over 90 Easter eggs donated by the fabulous customers from Sainsburys who donate to us every year",
+                    Location = "Sainsbury's",
+                    Show = true,
+                    Photos = new List<PhotoItem>
+                    {
+                        new PhotoItem
+                        {
+                            TitleText = "Easter Eggs",
+                            AltText = "Easter Eggs",
+                            ImageSrc = "EasterEgg2016.jpg"
+                        }
+                    }
+                });
+            models.Add(
+                new BlogModel
+                {
+                    Date = new DateTime(2016, 03, 29),
+                    Details = "Mike (Charlie) Brown had a challenge of cycling 171 miles coast to coast along the Way of The Roses route from Morecambe to Bridlington finishing on 31st March. Mike raised over £450 for us. He did this on his own as well which is a challenge in itself.",
+                    Location = "Morecambe to Bridlington",
+                    Show = true,
+                });
+            models.Add(
+                new BlogModel
+                {
+                    Date = new DateTime(2016, 04, 10),
+                    Details = "Sunday 10th April saw a meeting with everyone going on the Disneyland Paris trip. Pat at McCleans put some food on for us and everyone got an Easter Egg that had been donated by Sainsburys customers and toys were also given out donated by Swansway Peugeot. Everyone got to meet one another and the children were really excited. We also invited a couple of the fundraisers along so that they could see exactly what the money they had donated to the charity actually did!! They were overwhelmed to say the least.",
+                    Location = "McCleans",
+                    Show = true,
+                });
+            models.Add(
+                new BlogModel
+                {
+                    Date = new DateTime(2016, 04, 10),
+                    Details = "Bahareh Ahmadi signed up to some boxing ‘Pink Collar event’ which was held at the Crowne Plaza hotel on Trinity Street at 3pm 10th April, following eight weeks of training.She was raising funds for Miles of Smiles. Bahareh said: I chose Miles of Smiles as I knew this was a charity close to my late father -in-law's heart. Being a mother myself, I could never dream of my daughter becoming ill. Miles of Smiles provides children with a holiday of a lifetime and every little bit helps going towards these trips. She was aiming for £250.",
+                    Location = "Crowne Plaza",
+                    Show = true,
+                });
+            models.Add(
+                new BlogModel
+                {
+                    Date = new DateTime(2016, 06, 30),
+                    Details = "On 30 June Madelaine Taylor and 9 others will be cycling from Chester to Edinburgh. All are hoping to raise a £1000 so times that by 10!!! That will be a great amount if they all reach their target. Watch this space. Madelaine has also organised a fundraising event on 28th May at The Wheatsheaf Parkgate Road to raise some funds towards the cycling trip.",
+                    Location = "Chester to Edinburgh",
+                    Show = true,
+                });
+            models.Add(
+                new BlogModel
+                {
+                    Date = new DateTime(2016, 07, 01),
+                    Details = "Mara who completed her running challenge last year is at it again!! This is what she says: I am running Chester half marathon,  doing a sky dive,  doing Total Warrior and the Chester full marathon to help raise money for the fantastic Miles of smiles appeal, awesome charity that takes poorly children to Disneyland.. I am paying for all the costs of my challenges so all money raised goes fully to the charity.. Please donate as much as u can afford every penny counts. Mara met some of the kids going on this years trip and cannot do enough for us. We love Mara!!",
+                    Location = "Chester",
+                    Show = true,
+                });
             return View(viewModel);
         }
 

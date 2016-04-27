@@ -289,8 +289,12 @@
     <Content Include="Images\blog\AirbusMay2014.JPG" />
     <Content Include="Images\blog\Bears Paw_2004.JPG" />
     <Content Include="Images\blog\BearsPawAFC.jpg" />
+    <Content Include="Images\blog\Bibididoo.jpg" />
+    <Content Include="Images\blog\cf1.jpg" />
+    <Content Include="Images\blog\cf2.jpg" />
     <Content Include="Images\blog\chesterlakes.JPG" />
     <Content Include="Images\blog\Dance.jpg" />
+    <Content Include="Images\blog\EasterEgg2016.jpg" />
     <Content Include="Images\blog\FunDay.jpg" />
     <Content Include="Images\blog\fundraising 026.JPG" />
     <Content Include="Images\blog\Halloween.jpg" />
@@ -330,6 +334,7 @@
     <Content Include="Images\sponsors\ball.png" />
     <Content Include="Images\sponsors\Big_Storage_200x200.jpg" />
     <Content Include="Images\sponsors\BurningDesire.jpg" />
+    <Content Include="Images\sponsors\cf-fertilisers_logo.png" />
     <Content Include="Images\sponsors\Chester-fc_200x200.png" />
     <Content Include="Images\sponsors\chesterevents_200x50.jpg" />
     <Content Include="Images\sponsors\chester_lakes.jpg" />
