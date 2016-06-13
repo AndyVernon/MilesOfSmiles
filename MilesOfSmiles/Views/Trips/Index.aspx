@@ -6,6 +6,8 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <h2>Trips and Reports</h2>
+    <h3>Disneyland Trip 2016 Photos</h3>
+    <p>Photos from our latest trip can be seen <%: Html.ActionLink("here", "DisneylandTrip2016") %></p>
     <h3>Disneyland Trip 2012 Photos</h3>
     <p>You can see some wonderful photos from our Disneyland Trip 2012<%: Html.ActionLink("here", "DisneylandTrip2012") %></p>
     <h3>Latest Report</h3>
