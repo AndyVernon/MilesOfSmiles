@@ -16,7 +16,7 @@ namespace MilesOfSmiles.Controllers
 
         public ActionResult DisneylandTrip2016()
         {
-            var photos = new List<string>();
+            List<char> photos = Enumerable.Range('a', 26).Select(x => (char)x).ToList();
             var viewData = new List<PhotoItem>();
             foreach (var item in photos)
             {
