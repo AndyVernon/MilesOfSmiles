@@ -276,7 +276,7 @@ namespace MilesOfSmiles.Controllers
                 new EventModel
                 {
                     EventTitle = "Through the Decades",
-                    EventDetails = "The Mix Party Band kicks off the Xmas party season with Through the Decades music to entertain you along with our great DJ Ange Fairweather plus the usual stand up bingo and raffle.",
+                    EventDetails = "£10 per ticket - The Mix Party Band kicks off the Xmas party season with Through the Decades music to entertain you along with our great DJ Ange Fairweather plus the usual stand up bingo and raffle, need to book asap",
                     EventDate = new DateTime(2016, 11, 26)
                 });
             models.Add(
@@ -303,13 +303,6 @@ namespace MilesOfSmiles.Controllers
             models.Add(
                 new EventModel
                 {
-                    EventTitle = "Ladies evening",
-                    EventDetails = "Further details TBC",
-                    EventDate = new DateTime(2016, 09, 22)
-                });
-            models.Add(
-                new EventModel
-                {
                     EventTitle = "Sportsmans Evening",
                     EventDetails = "We are delighted to welcome our guest speaker for this year, ex Newcastle United, Coventry City striker and Talk Sport Presenter Micky Quinn. Also played for Wigan, Stockport, Oldham and Portsmouth. Also very pleased to welcome back by popular demand our Comedian Gary Skyner, who is quite simply hilarious. £30 per head, tables of 10 for the price of 9.Full Chinese banquet, raffle and stand up bingo. 7 pm. for 7.15 pm PROMPT start.Dress code is lounge suits / or smart(no jeans or t shirts).",
                     EventDate = new DateTime(2016, 10, 20)
@@ -331,7 +324,7 @@ namespace MilesOfSmiles.Controllers
             models.Add(
                 new EventModel
                 {
-                    EventTitle = "Kids Party",
+                    EventTitle = "Kids Charity 25th Birthday Party ",
                     EventDetails = "In aid of Miles of Smiles 25th birthday. 2pm to 5pm. Disco & entertainment. TBA.",
                     EventDate = new DateTime(2017, 04, 27)
                 });
@@ -339,7 +332,7 @@ namespace MilesOfSmiles.Controllers
                 new EventModel
                 {
                     EventTitle = "Gala Charity Night",
-                    EventDetails = "Special night for Miles of Smiles 25th birthday. 7pm for 7.30 start – 1am. Crowne Plaza Chester. Further details TBA.",
+                    EventDetails = "£50 per ticket - Special night for Miles of Smiles 25th birthday. 7pm for 7.30 start – 1am. Crowne Plaza Chester. Further details TBA.",
                     EventDate = new DateTime(2017, 05, 20)
                 });
             viewModel.AllEvents = models;

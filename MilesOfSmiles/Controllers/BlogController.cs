@@ -657,7 +657,7 @@ namespace MilesOfSmiles.Controllers
                 new BlogModel
                 {
                     Date = new DateTime(2016, 06, 30),
-                    Details = "On 30 June Madelaine Taylor and 9 others will be cycling from Chester to Edinburgh. All are hoping to raise a £1000 so times that by 10!!! That will be a great amount if they all reach their target. Watch this space. Madelaine has also organised a fundraising event on 28th May at The Wheatsheaf Parkgate Road to raise some funds towards the cycling trip.",
+                    Details = "On 30 June Madelaine Taylor and 9 others will be cycling from Chester to Edinburgh. an incredible £5,200 was raised. Madelaine has also organised a fundraising event on 28th May at The Wheatsheaf Parkgate Road to raise some funds towards the cycling trip.",
                     Location = "Chester to Edinburgh",
                     Show = true,
                 });

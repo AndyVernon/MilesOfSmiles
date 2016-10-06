@@ -49,7 +49,7 @@
         </p>
     </div>
         <div class="committee-photo">
-            <asp:Image ID="Image1" ImageUrl="../../Images/committeeimage_300x200.png" runat="server" />
+            <asp:Image ID="Image1" ImageUrl="../../Images/ContactUsNew.jpg" runat="server" />
         </div>
     </div>
 </asp:Content>

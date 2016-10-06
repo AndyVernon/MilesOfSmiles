@@ -215,6 +215,7 @@
     <Compile Include="Models\BlogViewModel.cs" />
     <Compile Include="Models\EventModel.cs" />
     <Compile Include="Models\EventViewModel.cs" />
+    <Compile Include="Models\TripViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -322,6 +323,7 @@
     <Content Include="Images\blog\Xmas2.jpg" />
     <Content Include="Images\chesterevents_200x50.jpg" />
     <Content Include="Images\committeeimage_300x200.png" />
+    <Content Include="Images\ContactUsNew.jpg" />
     <Content Include="Images\donate_230x62.jpg" />
     <Content Include="Images\ellis_whittam.jpg" />
     <Content Include="Images\ellis_whittam_small.jpg" />
@@ -380,6 +382,14 @@
     <Content Include="Images\trips\2016\2016_x.jpg" />
     <Content Include="Images\trips\2016\2016_y.jpg" />
     <Content Include="Images\trips\2016\2016_z.jpg" />
+    <Content Include="Images\trips\2016\Feedback\001.jpg" />
+    <Content Include="Images\trips\2016\Feedback\002.jpg" />
+    <Content Include="Images\trips\2016\Feedback\003.jpg" />
+    <Content Include="Images\trips\2016\Feedback\004.jpg" />
+    <Content Include="Images\trips\2016\Feedback\006.jpg" />
+    <Content Include="Images\trips\2016\Feedback\007.jpg" />
+    <Content Include="Images\trips\2016\Feedback\008.jpg" />
+    <Content Include="Images\trips\2016\Feedback\009.jpg" />
     <Content Include="Images\trips\small\034.jpg" />
     <Content Include="Images\trips\small\037.jpg" />
     <Content Include="Images\trips\small\039.jpg" />
