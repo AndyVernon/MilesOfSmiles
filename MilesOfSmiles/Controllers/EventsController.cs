@@ -276,7 +276,7 @@ namespace MilesOfSmiles.Controllers
                 new EventModel
                 {
                     EventTitle = "Through the Decades",
-                    EventDetails = "£10 per ticket - The Mix Party Band kicks off the Xmas party season with Through the Decades music to entertain you along with our great DJ Ange Fairweather plus the usual stand up bingo and raffle, need to book asap",
+                    EventDetails = "To be held at Airbus, £10 per ticket - The Mix Party Band kicks off the Xmas party season with Through the Decades music to entertain you along with our great DJ Ange Fairweather plus the usual stand up bingo and raffle, need to book asap",
                     EventDate = new DateTime(2016, 11, 26)
                 });
             models.Add(
@@ -310,15 +310,8 @@ namespace MilesOfSmiles.Controllers
             models.Add(
                 new EventModel
                 {
-                    EventTitle = "Halloween Party",
-                    EventDetails = "Fancy dress competitions for both adults & kids. Entertainment. Food. Glitterbugz. More TBA. McCleans Pentre. 6pm – 10.30pm.",
-                    EventDate = new DateTime(2016, 10, 22)
-                });
-            models.Add(
-                new EventModel
-                {
                     EventTitle = "Kids Xmas Party",
-                    EventDetails = "Further details will be released.",
+                    EventDetails = "£5 per child includes a visit with Father Xmas and £2 per adult.",
                     EventDate = new DateTime(2016, 12, 04)
                 });
             models.Add(

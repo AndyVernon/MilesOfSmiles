@@ -10,6 +10,8 @@
     <p>Photos from our latest trip can be seen <%: Html.ActionLink("here", "DisneylandTrip2016") %></p>
     <h3>Disneyland Trip 2012 Photos</h3>
     <p>You can see some wonderful photos from our Disneyland Trip 2012<%: Html.ActionLink("here", "DisneylandTrip2012") %></p>
+    <h3>October 2016</h3>
+    <p>Getting towards the end of October just a couple more events to go before the end of the year and we are already planning events for 2017! I still have my sights on raising money to do another trip however still have a long way to go with the fundraising. I will report again before the end of December. Along the way this year we have attracted more support and kept the support of our regulars who are always spreading the word about us and we just want to say thank you even though those two little words will never be enough.</p>
     <h3>July 2016</h3>
     <p>Over halfway through the year already and I am working on quite a lot events for you to hopefully come along to. Next year is a very special year for the charity and we hope to have 2 amazing events to celebrate, one for the children and one for the adults. I am aiming to do another trip next year to also help to celebrate but am in need of a lot more fundraising as yet and have 7 months to try to reach a magic figure of £30,000!! If you or anyone you know are in a position to do some fundraising for us then we can help with publicity and in other ways should you need it. The trip we did in May to Disneyland Paris seems a long time ago and I know all those that were lucky enough to get there had an amazing time and it with thanks to people like you, reading this and supporting this small local charity. Many thanks indeed </p>
     <h3>May 2016</h3>

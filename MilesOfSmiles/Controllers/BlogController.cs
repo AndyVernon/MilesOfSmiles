@@ -669,6 +669,36 @@ namespace MilesOfSmiles.Controllers
                     Location = "Chester",
                     Show = true,
                 });
+            models.Add(
+                new BlogModel
+                {
+                    Date = new DateTime(2016, 06, 25),
+                    Details = "Airbus Northern Soul night. Organised by Mr Peter Price, one of our regular supporters, this was a brilliant night of music and dancing. Peter organised the whole thing himself and went running about all night madly selling raffle tickets as well. For a man in his late 70’s he did a marvellous job!!! He raised £1045. He is a total star and a legend.",
+                    Show = true
+                });
+            models.Add(
+                new BlogModel
+                {
+                    Date = new DateTime(2016, 07, 24),
+                    Details = "Annual charity quiz night. A great turn out and a good couple of hours fun with the questions from Maurice Dutton. A game of stand up bingo and entry fees along with a £500 donation off Unite The Union and we raised £1000.",
+                    Show = true
+                });
+            models.Add(
+                new BlogModel
+                {
+                    Date = new DateTime(2016, 08, 20),
+                    Details = "Although the weather wasn’t proving to be too good we still had a good turn out by the public and stallholders and a lot of the entertainment that was booked. On the whole we had a far better day than anticipated and though only an amount of just over £300 was raised it still makes a difference.",
+                    Location = "Chester Lakes",
+                    Show = true
+                });
+            models.Add(
+                new BlogModel
+                {
+                    Date = new DateTime(2016, 10, 07),
+                    Location = "Carden Park",
+                    Details = "Phil & I were invited to the Police Federation Ball along with another £230 people. All dressed in their finery, it was a very well organised night with some great raffle prizes, we won a bottle of champagne, and some great entertainment. We were amazed a few days later to receive an email notifying us that Miles of Smiles were going to be receiving a cheque for £6000. Absolutely marvellous. With thanks to Emma McNulty for nominating us.",
+                    Show = true
+                });
             return View(viewModel);
         }
 
